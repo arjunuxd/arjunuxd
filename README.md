@@ -14,10 +14,8 @@ Hey there! I’m Arjun A Acharry — a digital storyteller who speaks the langua
 
 ## 🏅 Certifications
 
-### IBM Data Fundamentals – IBM SkillsBuild  
-<a href="https://www.credly.com/badges/b5eac56f-013b-4317-8584-ff12983e24b5/public_url">
-  <img src="https://images.credly.com/images/b5eac56f-013b-4317-8584-ff12983e24b5/image.png" width="160"/>
-</a>
+- IBM Data Fundamentals – IBM SkillsBuild  
+  🔗 https://www.credly.com/badges/b5eac56f-013b-4317-8584-ff12983e24b5/public_url
 
 ---
 
