@@ -47,13 +47,6 @@ Hey there! I’m Arjun A Acharry — a digital storyteller who speaks the langua
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arjunuxd&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=arjunuxd&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunuxd&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arjunuxd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
