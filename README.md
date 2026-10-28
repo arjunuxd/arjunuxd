@@ -24,7 +24,7 @@ Currently exploring AI-assisted development, design psychology, accessibility, a
 |---|---|---|
 | Figma · Canva | MongoDB · Express.js | Git · GitHub |
 | Design systems · Prototyping | React · Node.js | Firebase · Vercel |
-| UX research · Accessibility | JavaScript · HTML · CSS | Netlify · MySQL · PHP |
+| UX research · Accessibility | JavaScript · HTML · CSS | Render · MySQL · PHP |
 
 ### Outside the pixels
 
