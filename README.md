@@ -1,33 +1,38 @@
-# Arjun A Acharry
+# Hey, I'm Arjun 👋
 
-**UI/UX Designer · Product Thinker · AI-Assisted Developer**
+### I turn complex ideas into experiences that just make sense.
 
-I design and build digital products with a focus on usability, thoughtful interactions, and practical problem-solving. I enjoy working at the intersection of design, technology, and product strategy — turning complex ideas into clear, useful experiences.
+I'm a **UI/UX Designer and Product Thinker** exploring the space between human behaviour, thoughtful design, and emerging technology.
 
-- **Currently exploring:** Design psychology, accessibility, AI-assisted development, and product thinking
-- **Interested in:** Digital products, design systems, community-driven innovation, and tech for good
-- **Beyond the screen:** Building communities, organizing initiatives, and helping ideas move forward
+I care about more than how things look. I'm interested in **why they work, who they help, and what makes people come back.**
 
-[Portfolio](https://arjunaacharry-three.vercel.app/) · [Behance](https://behance.net/arjunaacharry) · [LinkedIn](https://linkedin.com/in/arjun-a-acharry) · [Email](mailto:arjunaacharry007@gmail.com)
+Currently exploring AI-assisted development, design psychology, accessibility, and the art of turning ideas into useful products.
 
----
-
-### Tools & Technologies
-
-**Design** · Figma, Canva
-
-**Development** · JavaScript, HTML, CSS, Python, PHP
-
-**Backend & Data** · Firebase, MySQL, MongoDB, Django
-
-**Workflow & Deployment** · Git, GitHub, Vercel, Netlify
+**[Explore my portfolio ↗](https://arjunaacharry-three.vercel.app/)** · **[Connect on LinkedIn ↗](https://linkedin.com/in/arjun-a-acharry)**
 
 ---
 
-### A Little More About Me
+### What I'm about
 
-- MCA student at Kristu Jyoti College of Management and Technology.
-- Experienced in UI/UX design, product workflows, and collaborative projects.
-- Conducted design and technology workshops for students.
-- Interested in building useful products that create real-world impact.
+- **Design with intent.** Making digital experiences intuitive, accessible, and meaningful.
+- **Think in products.** Connecting user needs, business goals, and technical possibilities.
+- **Build beyond the screen.** Exploring ideas, organizing initiatives, and bringing people together around technology.
+
+### My toolkit
+
+| Design | Development | Build & Ship |
+|---|---|---|
+| Figma · Canva | JavaScript · HTML · CSS | Git · GitHub |
+| Design systems · Prototyping | Python · PHP | Firebase · Vercel |
+| UX research · Accessibility | Django · MySQL · MongoDB | Netlify |
+
+### Outside the pixels
+
+I've delivered design workshops for students, contributed to technology initiatives, and explored ideas at the intersection of innovation and social impact.
+
+I believe the best products don't just solve problems. **They make the solution feel obvious.**
+
+---
+
+*Curiosity drives the idea. Design gives it direction. Technology brings it to life.*
 
